@@ -1,8 +1,9 @@
 # 🐍 Learning_Python
 
-> A collection of Python projects demonstrating core programming concepts including Object-Oriented Programming (OOP), data validation, and practical applications.
+> Five practical Python projects showcasing OOP, data validation, and real-world applications. Build a budget tracker, email system, media library, data validator, and geometry calculator—all with zero dependencies. Perfect for learning core Python concepts and building your portfolio.
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)](https://www.python.org/)
+[![Python 100%](https://img.shields.io/badge/Python-100%25-brightgreen?style=flat-square)](https://github.com/priyankardas2007/Learning_Python)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)]()
 
@@ -304,7 +305,7 @@ Recommended order to explore these projects:
 ┌─────────────────────────────────────┐
 │     Languages & Libraries           │
 ├─────────────────────────────────────┤
-│ • Python 3.x                        │
+│ • Python 3.x (100%)                 │
 │ • re (Regular Expressions)          │
 │ • datetime (Date/Time)              │
 │ • math (Mathematical Operations)    │
